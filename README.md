@@ -687,7 +687,7 @@
                     <p>古代商贸通道，连接中国与南亚的文化交流之路</p>
                 </div>
                 <div class="detail-content">
-                    <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/e7wh5z8mqEkC50VjahQESW7GWZvsrUR5zibXXYyS1bexHP4xYR883dpjsFibXExekiaQRkPUIIWdnnH89FwibmUQEg/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp#imgIndex=6" alt="茶马古道" class="detail-image">
+                    <img src="https://n.sinaimg.cn/sinacn20120/458/w1275h783/20190726/3421-iakuryw5399830.jpg" alt="茶马古道" class="detail-image">
                     <h3>茶马古道：汉藏文明的桥梁</h3>
                     <p>茶马古道，又有边茶古路、茶马官道、九尺道、茶叶之路、天路、茶路之说，泛指中国古代因以茶易马、茶马互市而兴起并发展的商贸通道。从四川雅安为起点的茶马古道与唐蕃古道、南方丝绸之路交错重叠，是目前已知亚洲大陆历史上最为庞大复杂的贸易通道。</p>
                     <p>千百年來，青藏高原和祖国内地之间就存在着一條汉藏交往的古老通道，它是目前世界上已知的地势最高最险的文明文化传播的古道，是一条完全用人和马的脚力踩出的、用有血有肉的生命之躯铺就的古道。马帮们沿着这条坎坷崎岖的古老驿道，源源不断地为藏区驮去茶、糖、盐等生活必需品，从藏区换回马匹、牛羊和皮毛，专家们因此将这条汉藏古道称为"茶马古道"。</p>
