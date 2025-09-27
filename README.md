@@ -419,7 +419,7 @@
             <div class="card-container">
                 <div class="card">
                     <div class="card-img">
-                        <img src="https://pic.nximg.cn/file/20230324/9609521_122924689104_2.jpg" alt="桂林山水">
+                        <img src="https://ts1.tc.mm.bing.net/th/id/R-C.2c2e3569c1f6fdaa16bd600ce9345318?rik=UkNnmRj7phOuuw&riu=http%3a%2f%2fimg.mp.sohu.com%2fupload%2f20170621%2f54497ebf3c3646d18db2643542c6c2d6_th.png&ehk=xrOIWihXnUzG7puKGla7%2b82BZrtS%2ffMD%2buTAVluARUg%3d&risl=&pid=ImgRaw&r=0" alt="桂林山水">
                     </div>
                     <div class="card-content">
                         <h3>桂林山水</h3>
@@ -582,7 +582,7 @@
                     <p>世界自然遗产，中国喀斯特地貌的杰出代表</p>
                 </div>
                 <div class="detail-content">
-                    <img src="https://pic.nximg.cn/file/20230324/9609521_122924689104_2.jpg" alt="桂林山水" class="detail-image">
+                    <img src="https://ts1.tc.mm.bing.net/th/id/R-C.6c7cd6050d13473c45fb45bfad2e0271?rik=indE9IBkU4uGZg&pid=ImgRaw&r=0" alt="桂林山水" class="detail-image">
                     <h3>桂林山水甲天下</h3>
                     <p>桂林山水是对桂林旅游资源的总称，是中国山水的代表。典型的喀斯特地形构成了别具一格的桂林山水，桂林山水所指的范围很广，项目繁多。桂林山水"山青、水秀、洞奇、石美"，包括山、水、喀斯特岩洞、石刻等等，其境内的山水风光举世闻名，千百年来享有"桂林山水甲天下"的美誉。</p>
                     <p>桂林市是世界著名的风景游览城市和中国历史文化名城，是广西东北部地区及桂湘交界地区的政治、经济、文化、科技中心。桂林市地处南岭山系西南部，为中、低山地形，有喀斯特山地、丘陵和台地。桂林为典型的岩溶地貌，两侧高，中部低，处在自西北向东南延伸的喀斯特(岩溶)盆地中。</p>
