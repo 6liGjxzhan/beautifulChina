@@ -562,7 +562,7 @@
                 <!-- 对比图片 -->
                 <div class="comparison-container">
                     <div class="comparison-item">
-                        <img src="https://ts1.tc.mm.bing.net/th/id/R-C.9fd9c74cf929f9acedbb697ddc85bb23?rik=MIBez5ZDLxts8w&riu=http%3a%2f%2fimg.ltaaa.cn%2fuploadfile%2f2021%2f05%2f11%2f16206984448667.jpg&ehk=zVTXMHvjV8u7F0GA%2b0cvTyukbNBcLfVQtiQHyIXB3kw%3d&risl=&pid=ImgRaw&r=0"治理前">
+                        <img src="https://ts1.tc.mm.bing.net/th/id/R-C.9fd9c74cf929f9acedbb697ddc85bb23?rik=MIBez5ZDLxts8w&riu=http%3a%2f%2fimg.ltaaa.cn%2fuploadfile%2f2021%2f05%2f11%2f16206984448667.jpg&ehk=zVTXMHvjV8u7F0GA%2b0cvTyukbNBcLfVQtiQHyIXB3kw%3d&risl=&pid=ImgRaw&r=0" alt="治理前">
                         <div class="comparison-label">治理前：沙漠扩张</div>
                     </div>
                     <div class="comparison-item">
