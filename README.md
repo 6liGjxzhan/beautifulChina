@@ -482,7 +482,7 @@
                 
                 <div class="card">
                     <div class="card-img">
-                        <img src="https://pic.nximg.cn/20140815/9885883_091131156000_2.jpg" alt="兵马俑">
+                        <img src="https://bpic.588ku.com/photo_water_img/24/03/20/84f3982c8b061e6d11e2f8674288efcb.jpg!/fh/300/quality/90/unsharp/true/compress/true" alt="兵马俑">
                     </div>
                     <div class="card-content">
                         <h3>秦始皇兵马俑</h3>
