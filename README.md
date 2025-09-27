@@ -501,7 +501,7 @@
             <div class="card-container">
                 <div class="card">
                     <div class="card-img">
-                        <img src="https://ts1.tc.mm.bing.net/th/id/R-C.4b200b8a74846beed76191e078793dc2?rik=mgW9i9U9lLiVdw&riu=http%3a%2f%2fimg1.voc.com.cn%2fUpLoadFile%2f2018%2f12%2f29%2f201812290157531515.jpg&ehk=MVpPDsuJ%2bGvtMMGCJoM%2bRzE03y%2bkUUOtsn1e7QIZQj8%3d&risl=&pid=ImgRaw&r=0" alt="茶马古道">
+                        <img src="https://img0.baidu.com/it/u=2846315167,2904513008&fm=253&app=138&f=JPEG?w=1257&h=800" alt="茶马古道">
                     </div>
                     <div class="card-content">
                         <h3>茶马古道</h3>
@@ -687,7 +687,7 @@
                     <p>古代商贸通道，连接中国与南亚的文化交流之路</p>
                 </div>
                 <div class="detail-content">
-                    <img src="https://ts1.tc.mm.bing.net/th/id/R-C.4b200b8a74846beed76191e078793dc2?rik=mgW9i9U9lLiVdw&riu=http%3a%2f%2fimg1.voc.com.cn%2fUpLoadFile%2f2018%2f12%2f29%2f201812290157531515.jpg&ehk=MVpPDsuJ%2bGvtMMGCJoM%2bRzE03y%2bkUUOtsn1e7QIZQj8%3d&risl=&pid=ImgRaw&r=0" alt="茶马古道" class="detail-image">
+                    <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/e7wh5z8mqEkC50VjahQESW7GWZvsrUR5zibXXYyS1bexHP4xYR883dpjsFibXExekiaQRkPUIIWdnnH89FwibmUQEg/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp#imgIndex=6" alt="茶马古道" class="detail-image">
                     <h3>茶马古道：汉藏文明的桥梁</h3>
                     <p>茶马古道，又有边茶古路、茶马官道、九尺道、茶叶之路、天路、茶路之说，泛指中国古代因以茶易马、茶马互市而兴起并发展的商贸通道。从四川雅安为起点的茶马古道与唐蕃古道、南方丝绸之路交错重叠，是目前已知亚洲大陆历史上最为庞大复杂的贸易通道。</p>
                     <p>千百年來，青藏高原和祖国内地之间就存在着一條汉藏交往的古老通道，它是目前世界上已知的地势最高最险的文明文化传播的古道，是一条完全用人和马的脚力踩出的、用有血有肉的生命之躯铺就的古道。马帮们沿着这条坎坷崎岖的古老驿道，源源不断地为藏区驮去茶、糖、盐等生活必需品，从藏区换回马匹、牛羊和皮毛，专家们因此将这条汉藏古道称为"茶马古道"。</p>
